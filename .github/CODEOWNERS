@@ -1,0 +1,5 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# Offsec will be requested for
+# review when someone opens a pull request.
+*       @CoveoSec/offsec @gruel-coveo @cyb3rjerry @tbronsonCoveo
